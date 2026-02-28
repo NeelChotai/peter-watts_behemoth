@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2-15.xhtml">
+		<ignore>
+			<code>t-048</code>
+			<reason>CSIRA is an abbreviation, not stylistic all-caps opening text.</reason>
+		</ignore>
+	</file>
+	<file path="cover.jpg">
+		<ignore>
+			<code>s-028</code>
+			<reason>Placeholder cover image; SVG titles match but JPEG is a simple placeholder.</reason>
+		</ignore>
+	</file>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>m-036</code>
+			<reason>Placeholder cover art.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-036</code>
+			<reason>Template variables for producer and cover artist.</reason>
+		</ignore>
+		<ignore>
+			<code>m-042</code>
+			<reason>Manual fix: removed duplicate cover-image property from cover.svg (se build-manifest bug adds it to both cover.jpg and cover.svg).</reason>
+		</ignore>
+	</file>
+<file path="uncopyright.xhtml">
+		<ignore>
+			<code>f-003</code>
+			<reason>CC licensing adaptation.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
