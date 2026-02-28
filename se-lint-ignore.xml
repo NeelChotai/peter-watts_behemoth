@@ -6,6 +6,18 @@
 			<reason>CSIRA is an abbreviation, not stylistic all-caps opening text.</reason>
 		</ignore>
 	</file>
+	<file path="epigraph-1.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Epigraphs are not listed in the ToC per SE convention.</reason>
+		</ignore>
+	</file>
+	<file path="epigraph-2.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Epigraphs are not listed in the ToC per SE convention.</reason>
+		</ignore>
+	</file>
 	<file path="cover.jpg">
 		<ignore>
 			<code>s-028</code>
