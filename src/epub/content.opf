@@ -53,22 +53,23 @@
 		<meta property="group-position" refines="#collection-1">3</meta>
 		<dc:creator id="author">Peter Watts</dc:creator>
 		<meta property="file-as" refines="#author">Watts, Peter</meta>
-		<meta property="se:name.person.full-name" refines="#author">Peter Hamilton Watts</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Peter_Watts_(author)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n98027530</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">Placeholder Artist</dc:contributor>
+		<meta property="file-as" refines="#artist">Artist, Placeholder</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Placeholder</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/placeholder</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Peter Watts</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Watts, Peter</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">https://rifters.com/</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Neel Chotai</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Chotai, Neel</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/NeelChotai/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
