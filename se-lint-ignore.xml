@@ -40,7 +40,7 @@
 			<reason>Manual fix: removed duplicate cover-image property from cover.svg (se build-manifest bug adds it to both cover.jpg and cover.svg).</reason>
 		</ignore>
 	</file>
-<file path="uncopyright.xhtml">
+	<file path="uncopyright.xhtml">
 		<ignore>
 			<code>f-003</code>
 			<reason>CC licensing adaptation.</reason>
