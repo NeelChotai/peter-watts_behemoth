@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-CA">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/peter-watts/behemoth</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
@@ -41,7 +41,7 @@
 			&lt;p&gt;In the conclusion to &lt;a href="https://standardebooks.org/ebooks/peter-watts"&gt;Peter Watts’s&lt;/a&gt; Rifters trilogy, the ancient deep-sea microbe Behemoth has escaped from the ocean floor and is consuming the world’s biosphere. Civilization has collapsed into fortified enclaves while Lenie Clarke, the “Meltdown Madonna,” continues her apocalyptic march across the continent. Originally published as two separate novels—&lt;i&gt;Behemoth: B-Max&lt;/i&gt; (2004) and &lt;i&gt;Behemoth: Seppuku&lt;/i&gt; (2005)—this combined volume brings the saga to its conclusion.&lt;/p&gt;
 			&lt;p&gt;As the world burns, a sociopathic surveillance operative named Achilles Desjardins finds his engineered conscience beginning to malfunction, while corporate factions and digital ecosystems vie for control of what remains. Watts weaves hard science—from extremophile biology to artificial life and behavioral neuroscience—into a relentless narrative about the end of the world and the questionable value of saving it.&lt;/p&gt;
 		</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-CA</dc:language>
 		<dc:source>https://rifters.com/real/Behemoth.htm</dc:source>
 		<meta property="se:production-notes">Converted from the author’s Creative Commons-licensed HTML release at rifters.com. The original used OpenOffice HTML export with iso-8859-1 encoding. Symbol font beta characters were normalized. Originally published as two novels (B-Max and Seppuku), combined here as a single volume with two divisions per the author’s intent.</meta>
 		<meta property="se:word-count">157081</meta>
