@@ -42,4 +42,134 @@
 			<reason>CC licensing adaptation.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-1-3.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-8.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-11.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Author's deliberate stream-of-consciousness style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-15.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-17.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-18.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Ellipsis followed by lowercase is author's intentional style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-22.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Ellipsis followed by lowercase is author's intentional style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-23.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-26.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Plural suffix "s" after italicized word (on/off gene switches).</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-27.xhtml">
+		<ignore>
+			<code>t-063</code>
+			<reason>False positive: "in camera" used in English sense (camera view), not Latin legal term.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-1.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-2.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-8.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Correct: "DisArmor" is a brand name with intentional camelCase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-21.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Ellipsis/dialect followed by lowercase is author's intentional style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-035</code>
+			<reason>Dialect speech: lowercase "i" is intentional.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-24.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Ellipsis followed by lowercase is author's intentional style; eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-27.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="division-1.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Correct: eszett (ß) in ßehemoth/ß-Max is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="division-2.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Correct: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
+	<file path="prelude.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Correct: contracted-prefix word 'lawbreaker uses elision mark.</reason>
+		</ignore>
+	</file>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>URLs and author initials in academic citations.</reason>
+		</ignore>
+	</file>
+	<file path="notes.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>False positive: eszett (ß) in ßehemoth is inherently lowercase.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
